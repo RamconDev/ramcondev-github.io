@@ -1,0 +1,7 @@
+/*
+sass --watch assets/css/sass/main.scss:assets/css/style.min.css --style compressed
+*/
+
+// Base
+@use "base" as base;
+@use "index-page" as index;
